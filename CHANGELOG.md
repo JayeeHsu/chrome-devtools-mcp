@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.3](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.20.2...chrome-devtools-mcp-v0.20.3) (2026-03-18)
+
+
+### 🛠️ Fixes
+
+* mark categoryExtensions flag mutually exclusive with autoConnect ([#1202](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1202)) ([8c2a7fc](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/8c2a7fc21ead6091567e85608f7916c001ccc7db)), closes [#1072](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1072)
+
 ## [0.20.2](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.20.1...chrome-devtools-mcp-v0.20.2) (2026-03-18)
 
 
